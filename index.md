@@ -1,61 +1,30 @@
+Welcome to GitHub Pages
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-<!doctype html>
-<html lang="en">
+Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
 
-<head>
-    <title>Title</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+Markdown
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-</head>
+Syntax highlighted code block
 
-<body>
-    <style>
-        .a-paddingP {
-            margin: 2px;
-        }
-    </style>
-    <div class="container">
-        <div class="list-group fa-li">
-            <a href="./demo/demo01/index.html" target="_blank" rel="noopener noreferrer"
-                class="list-group-item list-group-item-action list-group-item-primary active a-padding">跳转至demo01</a>
-            <a href="./demo/demo02/index.html" target="_blank" rel="noopener noreferrer"
-                class="list-group-item list-group-item-action list-group-item-primary a-padding">跳转至demo02</a>
-            <a href="./demo/demo03/index.html" target="_blank" rel="noopener noreferrer"
-                class="list-group-item list-group-item-action list-group-item-primary active a-padding">跳转至demo03</a>
-            <a href="./demo/demo04/index.html" target="_blank" rel="noopener noreferrer"
-                class="list-group-item list-group-item-action list-group-item-primary  a-padding">跳转至demo04</a>
-            <a href="./demo/demo05/index.html" target="_blank" rel="noopener noreferrer"
-                class="list-group-item list-group-item-action list-group-item-primary active a-padding">跳转至demo05</a>
-            <a href="./demo/demo06/index.html" target="_blank" rel="noopener noreferrer"
-                class="list-group-item list-group-item-action list-group-item-primary  a-padding">跳转至demo06</a>
-            <a href="./demo/demo07/index.html" target="_blank" rel="noopener noreferrer"
-                class="list-group-item list-group-item-action list-group-item-primary active a-padding">跳转至demo07</a>
-            <a href="./demo/demo08/index.html" target="_blank" rel="noopener noreferrer"
-                class="list-group-item list-group-item-action list-group-item-primary  a-padding">跳转至demo08</a>
-            <a href="./demo/demo09/index.html" target="_blank" rel="noopener noreferrer"
-                class="list-group-item list-group-item-action list-group-item-primary active a-padding">跳转至demo09</a>
+# Header 1
+## Header 2
+### Header 3
 
-        </div>
-    </div>
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
+**Bold** and _Italic_ and `Code` text
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
-</body>
+[Link](url) and ![Image](src)
+For more details see GitHub Flavored Markdown.
 
-</html>
+Jekyll Themes
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
+
+Support or Contact
+Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
