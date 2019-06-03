@@ -27,10 +27,10 @@ body{background: #3b4755;}
 .banner p{border: solid 1px #fff;line-height: 100px;margin-bottom: 20px;}
 .banner img{padding-top: 160px;transition: all .3s ease-out;}
 .banner img:hover{padding-top: 200px;}
-.aboutme{padding: 30px 0 50px 0;width:784px;margin: 0 auto;}
+.aboutme{padding: 30px 0 50px 0;width:786px;margin: 0 auto;}
 .aboutme article{float: left;line-height: 278px;padding:0 100px;}
 .aboutme li:nth-of-type(2){text-align: left}
-.aboutme li{float:left;line-height:70px;width:102px;text-align: center;}
+.aboutme li{float:left;line-height:70px;width:103px;text-align: center;}
 .ditu{box-shadow: 0 0 10px #16273b;width: 100%;}
 .wenan{text-align: center;line-height: 30px;letter-spacing: 1px;padding: 40px 0;background: url(../images/1.png)no-repeat top 55px center;}
 .wenan h3{font-weight: normal;padding-bottom: 40px;}
