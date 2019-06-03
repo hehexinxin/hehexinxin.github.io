@@ -21,7 +21,7 @@ body{background: #3b4755;}
 .navbar span{display: block;}
 .navbar a:hover{color: #fcd135;}
 .navbar.active{background: rgb(0, 0, 0);transition: background 1s;-moz-transition: background 1s;-webkit-transition: background 1s;-o-transition:background 1s;}
-.banner{background: url(../images/banner.jpg)no-repeat center center;width: 100%;height: 715px;box-shadow: 0 0 10px #16273b;}
+.banner{background: url(../images/banner.jpg)no-repeat center center;width: auto;height: 715px;box-shadow: 0 0 10px #16273b;}
 .banner .content{position: relative;text-align: center;height: 715px;}
 .banner article{color: #fff;font-size: 38px;line-height: 60px;width: 770px;position: absolute;left:200px;top:210px;letter-spacing: 2px;}
 .banner p{border: solid 1px #fff;line-height: 100px;margin-bottom: 20px;}
