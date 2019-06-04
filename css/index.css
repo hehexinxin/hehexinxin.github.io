@@ -26,17 +26,16 @@ table{border-collapse: collapse;border-spacing: 0}
 .banner p{border: solid 1px #fff;line-height: 100px;margin-bottom: 20px;}
 .banner img{padding-top: 160px;transition: all .3s ease-out;}
 .banner img:hover{padding-top: 200px;}
-.aboutme{padding: 50px 0 50px 0;margin: 0 auto;width: 848px;}
+.aboutme{padding: 60px 0 60px 0;margin: 0 auto;width: 888px;height: 406px;}
 .aboutme article{float: left;}
-.aboutme article:first-child{padding-right: 100px;}
-.aboutme article:last-child{padding-top: 24px;}
+.aboutme article:first-child{box-shadow: 0 0 16px #16273b;}
+.aboutme article:last-child{padding-top: 30px;padding-left: 100px;}
 .aboutme ul{float: left;padding-bottom: 16px;}
 .aboutme ul:first-child{padding-right: 50px;}
 .aboutme h3{font-weight: normal;padding-bottom: 24px;font-size: 22px;letter-spacing: 2px;}
 .aboutme span{font-size: 22px;letter-spacing: 2px;}
 .aboutme li{line-height: 36px;letter-spacing: 2px;}
 .aboutme p{line-height: 30px;font-size: 14px;letter-spacing: 2px;}
-
 .ditu{box-shadow: 0 0 10px #16273b;width: 100%;}
 .wenan{text-align: center;line-height: 30px;letter-spacing: 1px;padding: 40px 0;background: url(../images/1.png)no-repeat top 55px center;}
 .wenan h3{font-weight: normal;padding-bottom: 40px;}
