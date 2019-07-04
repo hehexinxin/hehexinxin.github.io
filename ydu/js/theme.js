@@ -11,7 +11,7 @@
                 loader: true,
                 navigation: true,
                 autoPlay:false,
-                time: 1000,
+                time: 700,
                 playPause: false,
                 pagination: false,
                 thumbnails: false,
